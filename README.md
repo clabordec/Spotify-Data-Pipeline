@@ -1,4 +1,4 @@
-# Maven-Ski-Shop
+# Spotify Data Pipeline
 
 
 ## Project Overview
