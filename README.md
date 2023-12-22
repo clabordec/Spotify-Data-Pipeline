@@ -2,17 +2,17 @@
 
 
 ## Project Overview
-In order to prepare scalable growth, the business is transitioning to Python as their primary tool for tracking inventory, pricing and promotions.
+Collect data within the music industry and help the client understand how she can make music based on those patterns
 
 <br>
 
-I will need to analyze sales data from the shop's recent Black Friday promotion.
+I will need to analyze sthe Top Global Songs on Spotify and collect this data every single week to help the client understand what type of songs are trending, what kind of albums are trending and who are the artists that created the songs
 
 <br>
 
 ## The Objectives
 Use Python to:
+- Extract all of the data from the Spotify API
 - Process missing data fields
 - Reshape and aggregate transactional data
-- Calculate KPIs and deliver insights on Black Friday Sales
 - Build a simple data pipeline and export the processed data to Excel to share to leadership
