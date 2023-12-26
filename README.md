@@ -6,7 +6,7 @@ Collect data within the music industry and help the client understand how she ca
 
 <br>
 
-I will need to analyze sthe Top Global Songs on Spotify and collect this data every single week to help the client understand what type of songs are trending, what kind of albums are trending and who are the artists that created the songs
+I will need to analyze the Top Global Songs on Spotify and collect this data every single week to help the client understand what type of songs are trending, what kind of albums are trending and who are the artists that created the following categories
 
 <br>
 
