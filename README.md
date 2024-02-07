@@ -1,6 +1,3 @@
-# Spotify Data Pipeline
-
-
 ## Project Overview
 Collect data within the music industry and help the client understand how she can make music based on those patterns
 
